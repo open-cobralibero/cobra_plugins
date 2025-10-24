@@ -1,0 +1,98 @@
+[
+  {
+    "name": "enigma2-plugin-systemplugins-ciplushelper_5.8-r3_all",
+    "description": "Plugin enigma2-plugin-systemplugins-ciplushelper_5.8-r3_all.",
+    "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/default.png",
+    "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-systemplugins-ciplushelper_5.8-r3_all.ipk"
+  },
+  {
+    "name": "enigma2-plugin-extensions-vavoo-maker_1.0_all",
+    "description": "Plugin enigma2-plugin-extensions-vavoo-maker_1.0_all.",
+    "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/default.png",
+    "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-vavoo-maker_1.0_all.ipk"
+  },
+  {
+    "name": "enigma2-plugin-extensions-flashexpander_1.00-r0_all",
+    "description": "Plugin enigma2-plugin-extensions-flashexpander_1.00-r0_all.",
+    "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/default.png",
+    "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-flashexpander_1.00-r0_all.ipk"
+  },
+  {
+    "name": "enigma2-plugin-extensions-installipk_0.5_all",
+    "description": "Plugin enigma2-plugin-extensions-installipk_0.5_all.",
+    "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/default.png",
+    "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-installipk_0.5_all.ipk"
+  },
+  {
+    "name": "enigma2-plugin-extensions-stalkerportalconverter_1.3_all",
+    "description": "Plugin enigma2-plugin-extensions-stalkerportalconverter_1.3_all.",
+    "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/default.png",
+    "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-stalkerportalconverter_1.3_all.ipk"
+  },
+  {
+    "name": "enigma2-plugin-extensions-oroscopo_1.0_all",
+    "description": "Plugin enigma2-plugin-extensions-oroscopo_1.0_all.",
+    "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/default.png",
+    "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-oroscopo_1.0_all.ipk"
+  },
+  {
+    "name": "enigma2-plugin-extensions-wireguard-vpn_15.9_all",
+    "description": "Plugin enigma2-plugin-extensions-wireguard-vpn_15.9_all.",
+    "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/default.png",
+    "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-wireguard-vpn_15.9_all.ipk"
+  },
+  {
+    "name": "enigma2-plugin-extensions-chocholousek-picons_5.0.240904_all",
+    "description": "Plugin enigma2-plugin-extensions-chocholousek-picons_5.0.240904_all.",
+    "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/default.png",
+    "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-chocholousek-picons_5.0.240904_all.ipk"
+  },
+  {
+    "name": "enigma2-plugin-extensions-wireguard-vpn_15.4_all",
+    "description": "Plugin enigma2-plugin-extensions-wireguard-vpn_15.4_all.",
+    "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/default.png",
+    "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-wireguard-vpn_15.4_all.ipk"
+  },
+  {
+    "name": "enigma2-plugin-extensions-epgimport_all",
+    "description": "Plugin enigma2-plugin-extensions-epgimport_all.",
+    "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/default.png",
+    "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-epgimport_all.ipk"
+  },
+  {
+    "name": "enigma2-plugin-extensions-weatherplugin_2.1_all",
+    "description": "Plugin enigma2-plugin-extensions-weatherplugin_2.1_all.",
+    "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/default.png",
+    "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-weatherplugin_2.1_all.ipk"
+  },
+  {
+    "name": "enigma2-plugin-extensions-oscam-softcam_1.0_all",
+    "description": "Plugin enigma2-plugin-extensions-oscam-softcam_1.0_all.",
+    "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/default.png",
+    "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-oscam-softcam_1.0_all.ipk"
+  },
+  {
+    "name": "enigma2-plugin-extensions-worldcam_5.4_all",
+    "description": "Plugin enigma2-plugin-extensions-worldcam_5.4_all.",
+    "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/default.png",
+    "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-worldcam_5.4_all.ipk"
+  },
+  {
+    "name": "enigma2-plugin-extensions-filecommander_all",
+    "description": "Plugin enigma2-plugin-extensions-filecommander_all.",
+    "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/default.png",
+    "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-filecommander_all.ipk"
+  },
+  {
+    "name": "enigma2-plugin-extensions-vavoo_1.38_all",
+    "description": "Plugin enigma2-plugin-extensions-vavoo_1.38_all.",
+    "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/default.png",
+    "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-vavoo_1.38_all.ipk"
+  },
+  {
+    "name": "enigma2-plugin-extensions-ngsetting-fhd_2.9_all",
+    "description": "Plugin enigma2-plugin-extensions-ngsetting-fhd_2.9_all.",
+    "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/default.png",
+    "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-ngsetting-fhd_2.9_all.ipk"
+  }
+]

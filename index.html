@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cobra Panel</title>
+    <style>
+        .plugin {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin: 10px;
+            display: inline-block;
+        }
+        .plugin img {
+            width: 100px;
+            height: 100px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Cobra Panel</h1>
+    <div id="plugins"></div>
+
+    <script>
+        fetch('pluginlist.json')
+            .then(response => response.json())
+            .then(data => {
+                const pluginsDiv = document.getElementById('plugins');
+                data.forEach(plugin => {
+                    const pluginDiv = document.createElement('div');
+                    pluginDiv.className = 'plugin';
+                    pluginDiv.innerHTML = `
+                        <img src="${plugin.image}" alt="${plugin.name}">
+                        <h2>${plugin.name}</h2>
+                        <p>${plugin.description}</p>
+                        <button onclick="downloadPlugin('${plugin.file}')">Scarica</button>
+                    `;
+                    pluginsDiv.appendChild(pluginDiv);
+                });
+            });
+
+        function downloadPlugin(file) {
+            window.location.href = file;
+        }
+    </script>
+</body>
+</html>
