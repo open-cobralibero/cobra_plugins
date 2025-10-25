@@ -81,7 +81,7 @@
         "name": "VPN WireGuard V.15.4 Python 3.9.9",
         "description": "Descrizione del Plugin WireGuard VPN.",
         "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/wireguard.png",
-        "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-wireguard-vpn_15.4_all.ipk"
+        "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-wireguard-vpn_15.9_all.ipk"
     },
     {
         "name": "WeatherPlugin",
