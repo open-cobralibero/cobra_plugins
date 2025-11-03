@@ -102,7 +102,7 @@
         "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-worldcam_5.4_all.ipk"
     },
     {
-        "name": "enigma2-softcams",
+        "name": "Enigma2-softcams",
         "description": "Descrizione del Plugin softcams.",
         "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/oscam-logo.png",
         "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-softcams-oscam_11868-r0.ipk"
