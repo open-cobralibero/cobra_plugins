@@ -100,6 +100,12 @@
         "description": "Descrizione del Plugin worldcam.",
         "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/worldcam.png",
         "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-worldcam_5.4_all.ipk"
+    },
+    {
+        "name": "Levi45",
+        "description": "Descrizione del Plugin worldcam.",
+        "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/Levi45.png",
+        "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-levi45multicammanager_10.2-r1_all.ipk"
     }
     
 ]
