@@ -1,5 +1,11 @@
 [
     {
+        "name": "chocholousek-picons",
+        "description": "Descrizione del Plugin chocholousek-picons.",
+        "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/picons.png",
+        "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-chocholousek-picons_5.0.240904_all.ipk"
+    },
+    {
         "name": "Ciplushelper_5.8-r3",
         "description": "Descrizione del Plugin ciplushelper_5.8-r3.",
         "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/ciplus.png",
