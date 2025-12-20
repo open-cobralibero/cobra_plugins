@@ -51,7 +51,7 @@
         "name": "Oroscopo Radio Italia",
         "description": "Descrizione del Plugin oroscopo.",
         "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/oroscopo.png",
-        "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-oroscopo_1.0_all.ipk"
+        "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-horoscope_1.3_all.ipk"
     },
     {
         "name": "StalkerportalConverter V.1.3",
