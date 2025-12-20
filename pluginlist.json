@@ -48,7 +48,7 @@
         "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-oaweather_4.0_all.ipk"
     },
     {
-        "name": "Oroscopo Radio Italia",
+        "name": "Oroscopo Global",
         "description": "Descrizione del Plugin oroscopo.",
         "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/oroscopo.png",
         "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-horoscope_1.3_all.ipk"
