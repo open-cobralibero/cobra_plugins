@@ -12,6 +12,12 @@
         "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-systemplugins-ciplushelper_5.8-r3_all.ipk"
     },
     {
+        "name": "Ci_plus_helper_8.x_4",
+        "description": "Descrizione del Plugin ci_plus_helper-openpli8.x_4.",
+        "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/ciplus.png",
+        "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-ci_plus_helper-openpli8.x_4_all.ipk"
+    },
+    {
         "name": "EPGimport",
         "description": "Descrizione del Plugin EPGimport.",
         "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/plugin.png",
