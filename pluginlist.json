@@ -18,12 +18,6 @@
         "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-epgimport_all.ipk"
     },
     {
-        "name": "File Commander",
-        "description": "Descrizione del Plugin filecommander.",
-        "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/FileCommander.png",
-        "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-filecommander_6.5+git1481_all.ipk"
-    },
-    {
         "name": "FlashExpander_Python2/Python3",
         "description": "Descrizione del Plugin flashexpander.",
         "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/flashexpander.png",
