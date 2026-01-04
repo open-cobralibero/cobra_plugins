@@ -78,7 +78,7 @@
         "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-weatherplugin_2.1_all.ipk"
     },
     {
-        "name": "WireGuard VPN V.15.9 Python 3.12.11",
+        "name": "WireGuard VPN V.15.9 Python 3.12.12",
         "description": "Descrizione del Plugin WireGuard VPN.",
         "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/wireguard.png",
         "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-wireguard-vpn_15.9_all.ipk"
