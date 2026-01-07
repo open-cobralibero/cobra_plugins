@@ -84,10 +84,10 @@
         "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-wireguard-vpn_15.9_all.ipk"
     },
     {
-        "name": "Worldcam",
+        "name": "Worldcam V.6.3",
         "description": "Descrizione del Plugin worldcam.",
         "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/worldcam.png",
-        "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-worldcam_5.4_all.ipk"
+        "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-worldcam_6.3_all.ipk"
     },
     {
         "name": "Levi45 Cam Manager",
