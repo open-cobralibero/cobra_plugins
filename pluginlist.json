@@ -103,9 +103,15 @@
     },
     {
         "name": "Jedimakerxtream",
-        "description": "Descrizione del Plugin bouquetmakerxtream.",
+        "description": "Descrizione del Plugin jedimakerxtream.",
         "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/JediMakerXtream.png",
         "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-jedimakerxtream_6.40.20250212_all.ipk"
+    },
+    {
+        "name": "xstreamity",
+        "description": "Descrizione del Plugin xtreamity.",
+        "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/Xtreamity.png",
+        "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-xstreamity_5.15.20250920_all.ipk"
     }
     
 ]
