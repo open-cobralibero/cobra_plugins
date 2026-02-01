@@ -54,12 +54,6 @@
         "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-stalkerportalconverter_1.3_all.ipk"
     },
     {
-        "name": "Vavoo-maker",
-        "description": "Descrizione del Plugin vavoo-maker.",
-        "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/vavoo.png",
-        "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-vavoo-maker_1.0_all.ipk"
-    },
-    {
         "name": "Vhannibal AutoSetting V.2.9",
         "description": "Descrizione del Plugin Vhannibal AutoSetting.",
         "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/Vhannibal.png",
