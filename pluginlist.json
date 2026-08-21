@@ -13,7 +13,7 @@
     },
     {
         "name": "Ciplushelper_V 7.0",
-        "description": "Descrizione del Plugin ciplushelper V 7.0.",
+        "description": "Descrizione del Plugin ciplushelper_V 7.0.",
         "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/ciplus.png",
         "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-ci-plus-helper_7.0_all.ipk"
     },
