@@ -20,7 +20,7 @@
     {
         "name": "EPGimport",
         "description": "Descrizione del Plugin EPGimport.",
-        "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/plugin.png",
+        "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/plugin.png1",
         "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-epgimport_all.ipk"
     },
     {
