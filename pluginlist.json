@@ -18,12 +18,6 @@
         "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-ci-plus-helper_7.0_all.ipk"
     },
     {
-        "name": "EPGimport",
-        "description": "Descrizione del Plugin EPGimport.",
-        "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/pluginss.png",
-        "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-epgimport_all.ipk"
-    },
-    {
         "name": "EPGimportiet 5_3.5.1",
         "description": "Descrizione del Plugin EPGimportiet 5_3.5.1.",
         "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/plugin.png",
