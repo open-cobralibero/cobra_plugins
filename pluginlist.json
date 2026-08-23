@@ -24,6 +24,12 @@
         "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-epgimport_all.ipk"
     },
     {
+        "name": "EPGimportiet5_3.5.1",
+        "description": "Descrizione del Plugin EPGimportiet5_3.5.1.",
+        "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/plugin.png",
+        "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-epgimportiet5_3.5.1_all.ipk"
+    },
+    {
         "name": "FlashExpander_Python2/Python3",
         "description": "Descrizione del Plugin flashexpander.",
         "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/flashexpander.png",
