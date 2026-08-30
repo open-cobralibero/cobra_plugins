@@ -18,10 +18,10 @@
         "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-ci-plus-helper_7.0_all.ipk"
     },
     {
-        "name": "EPGimportiet_V 3.5.2",
-        "description": "Descrizione del Plugin EPGimportiet 3.5.2.",
+        "name": "EPGimportiet_V 3.5.4",
+        "description": "Descrizione del Plugin EPGimportiet 3.5.4.",
         "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/plugin.png",
-        "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-epgimportiet5_3.5.2_all.ipk"
+        "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-epgimportiet5_3.5.4_all.ipk"
     },
     {
         "name": "FlashExpander_Python2/Python3",
