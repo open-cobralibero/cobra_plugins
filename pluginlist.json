@@ -42,10 +42,10 @@
         "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-installipk_0.5_all.ipk"
     },
     {
-        "name": "OA-Weather V.4.0",
+        "name": "OA-Weather V.4.1",
         "description": "Descrizione del Plugin oaweather.",
         "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/oaweather.png",
-        "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-oaweather_4.0_all.ipk"
+        "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-oaweather_4.1_all.ipk"
     },
     {
         "name": "Oroscopo Global",
