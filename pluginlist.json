@@ -78,6 +78,12 @@
         "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-wireguard-vpn_15.9_all.ipk"
     },
     {
+        "name": "WireGuard VPN V.16.2 Python 3.14.7",
+        "description": "Descrizione del Plugin WireGuard VPN.",
+        "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/wireguard.png",
+        "file": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/enigma2-plugin-extensions-wireguard-vpn_16.2_all.ipk"
+    },
+    {
         "name": "Worldcam V.6.3",
         "description": "Descrizione del Plugin worldcam.",
         "image": "https://raw.githubusercontent.com/open-cobralibero/cobra_plugins/main/images/worldcam.png",
